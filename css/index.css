@@ -1,0 +1,58 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet Ms' ;
+    line-height: 1.5;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.div-photo img{
+    display: block;
+    margin: auto;
+
+}
+.div-search{
+    
+    width: 600px;
+    margin: auto;
+    height: 150px;
+    background-color: rgb(219, 220, 221);
+}
+
+.div-link{
+    background-color: rgb(162, 240, 214);
+
+    width: 100px;
+    height: 100px;
+    padding: 5px 45px 50px 49px; /*yazının kutu içerisindeki yeri*/
+    float: left;
+    margin: 5px 5px 0px 468px; /*kutunun ekrandaki yeri*/
+}
+
+.div-google-link{
+    background-color: rgb(106, 184, 158);
+    width: 100px;
+    height: 100px;
+    padding: 10px 50px 45px 50px;
+    float: left;
+    margin: 5px 0px 0px 0px;
+
+}
+.div-email{
+    background-color: rgb(67, 153, 124);
+    width: 180px;
+    height: 100px;
+    padding: 10px 5px 45px 10px;
+    float: left;
+    margin: 5px 0px 5px 5px;
+
+}
+
+.footer {
+    clear: both;
+    padding-top: 15px;
+    
+}
